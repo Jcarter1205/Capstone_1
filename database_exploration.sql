@@ -1,0 +1,18 @@
+USE sample_sales;
+SHOW TABLES;
+DESCRIBE inventory_categories;
+DESCRIBE inventory_subcategories;
+DESCRIBE management;
+DESCRIBE online_sales;
+DESCRIBE products;
+DESCRIBE shipper_list;
+DESCRIBE store_locations;
+DESCRIBE store_sales;
+SELECT * FROM inventory_categories LIMIT 10;
+SELECT * FROM inventory_subcategories LIMIT 10;
+SELECT * FROM management LIMIT 10;
+SELECT * FROM online_sales LIMIT 10;
+SELECT * FROM products LIMIT 10;
+SELECT * FROM shipper_list LIMIT 10;
+SELECT * FROM store_locations LIMIT 10;
+SELECT * FROM store_sales LIMIT 10;
