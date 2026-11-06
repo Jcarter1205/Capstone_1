@@ -217,10 +217,12 @@ ORDER BY
 -- Based on the analysis of Massachusetts sales, EmporiUM should focus
 -- on expanding sales of Technology and Accesories products. The results
 -- show the Massachusetts generated $9,832,788.26 in revenue between
--- 2022-01-01 and 2025-12-31, and the Technology and Accesories had the
--- highest transaction count (112) and the highest average sale
--- $437.05. Massachusetts also contributes 29.94% of all Northeast
--- revenue, making it an import market for growth.
+-- 2022-01-01 and 2025-12-31 and contributed 29.94% of all Northeast
+-- revenue. Technology and Accesories consistenly achieved the
+-- highest transaction count (95-116 per month) and the highest average sale
+-- values ($405- $505 per transaction), demonstrating strong customer
+-- demand and high revenue potential. 
 -- To improve next quarter performance, the company should increase
--- targeted promotions for Technology and Accesories products across
+-- inventory availability, invest in targeted marketed campaigns, and offer
+-- promotions on Technology and Accesories products across
 -- Massachusetts stores.
